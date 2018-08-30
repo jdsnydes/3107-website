@@ -1,2 +1,5 @@
-# 3107-website
-Static Website
+<html>
+<body>
+  Coming soon!
+</body>
+</html>
