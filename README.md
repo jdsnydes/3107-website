@@ -161,7 +161,7 @@
       <ul class="menu">
 
         <li>
-          <a href="https://www.linkedin.com/in/jdavisphd/" class="" target="_blank">
+          <a href="https://www.linkedin.com/in/john-snyder-688970131/" class="" target="_blank">
             <img src="https://s3.amazonaws.com/agilephd/webicon-linkedin-m.png">
           </a>
         </li>
