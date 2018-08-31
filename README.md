@@ -35,7 +35,7 @@
     <div class="row">
       <div class="medium-6 columns medium-push-6">
         <img class="thumbnail pm_image"
-          src="https://s3.amazonaws.com/agilephd/project_management.jpg">
+          src="http://www.engineersjournal.ie/wp-content/uploads/2016/11/project-manager.jpg">
       </div>
       <div class="medium-6 columns medium-pull-6">
         <h2>Agile Project Management</h2>
